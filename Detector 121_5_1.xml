@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<AEI_Report xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <scannername>Detector 121.5_1</scannername>
+  <trainsymbol>P063</trainsymbol>
+  <trainspeedmph>084</trainspeedmph>
+  <totalaxles>24</totalaxles>
+  <totalloads>5</totalloads>
+  <totalmtys>0</totalmtys>
+  <totaltons>288</totaltons>
+  <trainlengthft>495</trainlengthft>
+  <reportdata>
+    <AEI_Report_UnitData>
+      <equipmentype>Loco</equipmentype>
+      <direction />
+      <sequence />
+      <roadname>AMTK</roadname>
+      <unitnumber>198</unitnumber>
+      <isloaded>true</isloaded>
+      <cargotons>7</cargotons>
+      <destinationtag />
+      <cardefect>All_Ok</cardefect>
+      <carfilename>Run8_P42_Amtrak05.xml</carfilename>
+    </AEI_Report_UnitData>
+    <AEI_Report_UnitData>
+      <equipmentype>Passenger</equipmentype>
+      <direction />
+      <sequence>001</sequence>
+      <roadname>AMTK</roadname>
+      <unitnumber>778638</unitnumber>
+      <isloaded>true</isloaded>
+      <cargotons>3</cargotons>
+      <destinationtag>None</destinationtag>
+      <cardefect>All_Ok</cardefect>
+      <carfilename>R8_Amtrak_AmfleetCoachIVb01.xml</carfilename>
+    </AEI_Report_UnitData>
+    <AEI_Report_UnitData>
+      <equipmentype>Passenger</equipmentype>
+      <direction />
+      <sequence>002</sequence>
+      <roadname>AMTK</roadname>
+      <unitnumber>415051</unitnumber>
+      <isloaded>true</isloaded>
+      <cargotons>7</cargotons>
+      <destinationtag>None</destinationtag>
+      <cardefect>All_Ok</cardefect>
+      <carfilename>R8_Amtrak_AmfleetCoachIVb01.xml</carfilename>
+    </AEI_Report_UnitData>
+    <AEI_Report_UnitData>
+      <equipmentype>Passenger</equipmentype>
+      <direction />
+      <sequence>003</sequence>
+      <roadname>AMTK</roadname>
+      <unitnumber>519527</unitnumber>
+      <isloaded>true</isloaded>
+      <cargotons>4</cargotons>
+      <destinationtag>None</destinationtag>
+      <cardefect>All_Ok</cardefect>
+      <carfilename>R8_Amtrak_AmfleetCoachIVb01.xml</carfilename>
+    </AEI_Report_UnitData>
+    <AEI_Report_UnitData>
+      <equipmentype>Passenger</equipmentype>
+      <direction />
+      <sequence>004</sequence>
+      <roadname>AMTK</roadname>
+      <unitnumber>409829</unitnumber>
+      <isloaded>true</isloaded>
+      <cargotons>5</cargotons>
+      <destinationtag>None</destinationtag>
+      <cardefect>All_Ok</cardefect>
+      <carfilename>R8_Amtrak_AmfleetCoachIVb01.xml</carfilename>
+    </AEI_Report_UnitData>
+    <AEI_Report_UnitData>
+      <equipmentype>Passenger</equipmentype>
+      <direction />
+      <sequence>005</sequence>
+      <roadname>AMTK</roadname>
+      <unitnumber>543820</unitnumber>
+      <isloaded>true</isloaded>
+      <cargotons>1</cargotons>
+      <destinationtag>None</destinationtag>
+      <cardefect>All_Ok</cardefect>
+      <carfilename>R8_Amtrak_AmfleetLoungeIV01.xml</carfilename>
+    </AEI_Report_UnitData>
+  </reportdata>
+</AEI_Report>
